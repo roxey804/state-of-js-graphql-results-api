@@ -36,7 +36,7 @@ translations:
     - key: general.closed_surveys
       t: Zamknięte ankiety
     - key: general.no_open_surveys
-      t: Żadne ankiety nie są obecnie zamknięte.
+      t: Żadne ankiety nie są obecnie otwarte.
     - key: general.preview_surveys
       t: Podgląd ankiety
     - key: general.no_preview_surveys
